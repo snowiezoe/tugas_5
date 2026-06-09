@@ -4,6 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tugas 5</title>
+    <style>
+        form{
+            width: 100px;
+            margin: 10px;
+            font-family:'Times New Roman';
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        input placeholder{
+            background-color: white;
+            color :black;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
     <form action="">
