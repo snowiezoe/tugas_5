@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Membuat Form Sederhana</title>
-    <link rel="stylesheet" href="filecss.css">
     <style>
         form{
             width: 500px;
@@ -21,6 +20,7 @@
             display: block;
             margin-bottom: 5px;
             font-weight: bold;
+            margin-right: 5px;
         }
         div {
             display: flex;
@@ -28,9 +28,7 @@
             padding: 10px;
             margin-right: 10px;
         }
-        label{
-            margin-right: 5px;
-        }
+        
         button{
             background-color: white;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
